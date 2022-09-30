@@ -1,0 +1,47 @@
+body {
+    font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 80px;
+    border: 1px solid #4B778D;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 850px;
+    background: #4b778d43;
+}
+
+.to-the-right {
+    text-align: right;
+    padding: 20px 250px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.search-button {
+    background: #4E944F;
+    color: #ffff;
+    border-radius: 5px;
+}
+
+.size-matters {
+    font-size: 35px;
+    text-align: left;
+    padding-left: 350px;
+}
+
+.higher {
+    font-weight: bolder;
+}
+
+.card-text {
+    font-size: 45px;
+}
+
+.high {
+    font-weight: bolder;
+}
