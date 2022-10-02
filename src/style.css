@@ -14,6 +14,12 @@ h1 {
     background: #4b778d43;
 }
 
+.github {
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+}
+
 .to-the-right {
     text-align: right;
     padding: 20px 250px;
